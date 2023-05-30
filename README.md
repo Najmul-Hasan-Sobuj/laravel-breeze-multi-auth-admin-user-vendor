@@ -46,11 +46,6 @@ I can provide you with a guide on how to install a Laravel project from a Git re
 
 That's it! You have successfully installed a Laravel project from a Git repository. Let me know if you need any further assistance.
 
-
-## Package I use in this Database:
-
-- `countrypkg-laravel:` [https://github.com/wisdom-diala/countrypkg-laravel](https://github.com/wisdom-diala/countrypkg-laravel)
-
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
