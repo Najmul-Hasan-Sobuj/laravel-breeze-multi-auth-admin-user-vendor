@@ -4,7 +4,7 @@ I can provide you with a guide on how to install a Laravel project from a Git re
 
 1. Clone the repository:
    ```
-   git clone 'you'r repository link'
+   git clone https://github.com/your-username/your-repository.git
    ```
    Change 'username' and 'repository' to the actual values of the repository that you want to clone.
    
